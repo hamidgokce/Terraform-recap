@@ -67,7 +67,7 @@ billing_mode = "PAY_PER_REQUEST"
 }
 ```
 
-- Run the commands belov.
+- Run the commands below.
 
 ```bash
 terraform init   
